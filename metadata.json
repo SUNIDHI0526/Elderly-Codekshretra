@@ -1,0 +1,6 @@
+{
+  "name": "Elderly — CareCircle AI",
+  "description": "A multi-agent, multilingual continuous elderly care platform connecting patients, proactive AI agents, family caregivers, and doctors.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
