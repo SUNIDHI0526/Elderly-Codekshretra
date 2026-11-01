@@ -13,8 +13,6 @@ Live website link : https://elderly-careai-3119b.web.app
 ![Languages](https://img.shields.io/badge/Languages-6-2F7D62)
 ![Status](https://img.shields.io/badge/Hackathon-HEALTH--01-E0A03A)
 
-**[🌐 Live Demo](https://YOUR-LIVE-URL-HERE)** · **[💻 Repository](https://github.com/YOUR-USERNAME/YOUR-REPO)**
-
 <!-- Add your banner: save an image as docs/banner.png -->
 <img src="docs/banner.png" alt="Elderly CareCircle AI banner" width="800"/>
 
