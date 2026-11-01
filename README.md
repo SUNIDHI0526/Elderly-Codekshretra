@@ -13,8 +13,6 @@ Live website link : https://elderly-careai-3119b.web.app
 ![Languages](https://img.shields.io/badge/Languages-6-2F7D62)
 ![Status](https://img.shields.io/badge/Hackathon-HEALTH--01-E0A03A)
 
-<!-- Add your banner: save an image as docs/banner.png -->
-<img src="docs/banner.png" alt="Elderly CareCircle AI banner" width="800"/>
 
 </div>
 
@@ -86,18 +84,6 @@ Patient message (text or voice)
 - ✅ **Simulated 30-day timeline** where the agents catch a declining trend and **escalate**
 - ✅ **Doctor-facing summary** of everything between visits (Print + PDF)
 - ✅ **Social-wellbeing behavior**: spotting isolation and nudging family or community
-
----
-
-## 📸 Screenshots
-
-| Login | Patient Agent | 30-Day Timeline |
-|:---:|:---:|:---:|
-| <img src="docs/login.png" width="250"/> | <img src="docs/agent.png" width="250"/> | <img src="docs/timeline.png" width="250"/> |
-
-| Doctor Report | Medicines | SOS + Map |
-|:---:|:---:|:---:|
-| <img src="docs/report.png" width="250"/> | <img src="docs/medicines.png" width="250"/> | <img src="docs/sos.png" width="250"/> |
 
 ---
 
